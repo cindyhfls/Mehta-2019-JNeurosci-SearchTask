@@ -4,7 +4,6 @@ Priyanka's Visual Search Task
 # To-do:
 Get the eye data.
 Look into what exactly assumptions and shape von mises distribution takes.
-Get the AIC and BIC functions (MATLAB R2017b).
 
 1. Task 
 There were 4/7 diamonds on the screen for each trial. The offer value can be seen by staring at the diamonds, max__offer * ratio where ratio = 0-1.
