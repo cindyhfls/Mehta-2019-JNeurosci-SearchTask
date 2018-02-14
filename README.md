@@ -1,8 +1,9 @@
 # SearchTask
-Priyanka's Visual Search Task
+Based on Priyanka's Visual Search Task
 
 # To-do:
-Get the eye data.
+Heat Map.
+Get Velocity, angle and acceleration vectors...
 Look into what exactly assumptions and shape von mises distribution takes.
 
 1. Task 
