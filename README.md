@@ -7,6 +7,8 @@ Based on Priyanka's Visual Search Task
 3. Get Velocity, angle and acceleration vectors...
 4. Look into what exactly assumptions and shape von mises distribution takes.
 5. Read about AIC/BIC
+6. Read Grid-cell/autocorrelation method
+7. Improve on fminsearchbnd/fminsearchunc/etc. optimization process
 
 # To-do: for re-wrapping data
 1. Calculate the freq of occurence of breaking fixation at bar viewing and obtain those time-stampes and mark trials
