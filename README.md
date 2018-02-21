@@ -2,8 +2,8 @@
 Based on Priyanka's Visual Search Task
 
 # To-do:
-1. Plot for 10 neurons different model llkd, aic, bic with the vars = X,Y. In the epoch 1010:1060.
-2. Repeat for the epoch 960:1010
+1. Plot for 10 neurons different model llkd, aic, bic with the vars = X,Y. In the epoch 960:1000.
+2. Repeat for the epoch 1000:1020.
 3. Get Velocity, angle and acceleration vectors...
 4. Look into what exactly assumptions and shape von mises distribution takes.
 5. Read about AIC/BIC
