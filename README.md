@@ -10,6 +10,10 @@ Based on Priyanka's Visual Search Task
 6. Read Grid-cell/autocorrelation method
 7. Improve on fminsearchbnd/fminsearchunc/etc. optimization process
 
+# Less important analysis:
+1. Check the same spatial tuning for inter-trial interval (at fixation)
+2. Default mode network (after 1s of the ITI)----difference in in ITI and trial
+
 # To-do: for re-wrapping data
 1. Calculate the freq of occurence of breaking fixation at bar viewing and obtain those time-stampes and mark trials
 2. Calculate the freq of re-fixating mark those trials
