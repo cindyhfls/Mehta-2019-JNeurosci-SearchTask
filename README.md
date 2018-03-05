@@ -2,13 +2,14 @@
 Based on Priyanka's Visual Search Task
 
 # To-do:
-1. Plot for 10 neurons different model llkd, aic, bic with the vars = X,Y. In the epoch 960:1000.
-2. Repeat for the epoch 1000:1020.
+1. Plot for 10 neurons different model llkd, aic, bic with the vars = X,Y. In the epoch 961:1000.
+2. Repeat for the epoch 1001:1020.
 3. Get Velocity, angle and acceleration vectors...
 4. Look into what exactly assumptions and shape von mises distribution takes.
 5. Read about AIC/BIC
 6. Read Grid-cell/autocorrelation method
 7. Improve on fminsearchbnd/fminsearchunc/etc. optimization process
+8. By the way, from bar viewing to begin fixation on next diamond takes about 200-250 ms. <300 (300 ms is the accepting time window).
 
 # Less important analysis:
 1. Check the same spatial tuning for inter-trial interval (at fixation)
