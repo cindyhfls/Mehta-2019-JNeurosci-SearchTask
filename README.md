@@ -2,26 +2,21 @@
 Based on Priyanka's Visual Search Task
 
 # To-do:
-1. Plot for 10 neurons different model llkd, aic, bic with the vars = X,Y. In the epoch 961:1000.
-2. Repeat for the epoch 1001:1020.
 3. Get Velocity, angle and acceleration vectors...
-4. Look into what exactly assumptions and shape von mises distribution takes.
-5. Read about AIC/BIC
-6. Read Grid-cell/autocorrelation method
-7. Improve on fminsearchbnd/fminsearchunc/etc. optimization process
 8. By the way, from bar viewing to begin fixation on next diamond takes about 200-250 ms. <300 (300 ms is the accepting time window).
 
 # Less important analysis:
 1. Check the same spatial tuning for inter-trial interval (at fixation)
-2. Default mode network (after 1s of the ITI)----difference in in ITI and trial
-3. Latency Analysis
-4. Grid cell.
 
 # To-do: for re-wrapping data
 1. Calculate the freq of occurence of breaking fixation at bar viewing and obtain those time-stampes and mark trials
 2. Calculate the freq of re-fixating mark those trials
 3. Add in the orginial file name as a field of the data structure
 4. Change mydata to data
+
+# Priority Map:
+1. Fecteau and Munoz 2006 Review
+2. combined representation of salience(bottom-up) and relevance(top-down)
 
 # 1. Task 
 There were 4/7 diamonds on the screen for each trial. The offer value can be seen by staring at the diamonds, max__offer * ratio where ratio = 0-1.
