@@ -1,24 +1,8 @@
 # SearchTask
-Based on Priyanka's Visual Search Task
 
-# To-do:
-3. Get Velocity, angle and acceleration vectors...
-8. By the way, from bar viewing to begin fixation on next diamond takes about 200-250 ms. <300 (300 ms is the accepting time window).
+# This is the anaysis code related to Figure 10 in "[Ventromedial prefrontal cortex tracks multiple environmental variables during search](https://www.jneurosci.org/content/39/27/5336.abstract)" by Priyanka S Mehta, Jiaxin Cindy Tu, Giuliana A LoConte, Meghan C Pesce, Benjamin Y Hayden
 
-# Less important analysis:
-1. Check the same spatial tuning for inter-trial interval (at fixation)
-
-# To-do: for re-wrapping data
-1. Calculate the freq of occurence of breaking fixation at bar viewing and obtain those time-stampes and mark trials
-2. Calculate the freq of re-fixating mark those trials
-3. Add in the orginial file name as a field of the data structure
-4. Change mydata to data
-
-# Priority Map:
-1. Fecteau and Munoz 2006 Review
-2. combined representation of salience(bottom-up) and relevance(top-down)
-
-# 1. Task 
+# 1. Data Description (the task is described in details in the paper
 There were 4/7 diamonds on the screen for each trial. The offer value can be seen by staring at the diamonds, max__offer * ratio where ratio = 0-1.
 Staring any offer for 200ms = choice.
 Total Neuron Number = 122
@@ -40,7 +24,6 @@ What it does is fitting paramters by gradient descent, to maximize the loglikeli
 This can be changed to include multiple variables (with different distributions).
 And then calculate the joint probability e.g. (log_likelihood_x + log_likelihood_y + ...).
 Since the log likelihoods are additive, find the best-fit distribution for each variable if you want to fit a joint probabilty.
-
 
 # 4. Distribution Functions: e.g. vonmises.m/linear.m
 % remember to add in the constant term for each distribution
