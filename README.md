@@ -1,5 +1,5 @@
 # SearchTask
-This is the anaysis code related to Figure 10 in "[Ventromedial prefrontal cortex tracks multiple environmental variables during search](https://www.jneurosci.org/content/39/27/5336.abstract)" by Priyanka S Mehta, Jiaxin Cindy Tu, Giuliana A LoConte, Meghan C Pesce, Benjamin Y Hayden
+This is the anaysis code related to Figure 10 in "[Ventromedial prefrontal cortex tracks multiple environmental variables during search](https://www.jneurosci.org/content/39/27/5336.abstract)" by Priyanka S Mehta, Jiaxin Cindy Tu, Giuliana A LoConte, Meghan C Pesce, Benjamin Y Hayden at Journal of Neuroscience (2019)
 
 # 1. Data Description (the task is described in details in the paper
 There were 4/7 diamonds on the screen for each trial. The offer value can be seen by staring at the diamonds, max__offer * ratio where ratio = 0-1.
